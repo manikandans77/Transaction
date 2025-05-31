@@ -149,7 +149,7 @@ void customerdetails()
     fclose(ftxt);
 }
 
-// Update customer name and balance
+// Update customer name
 void update_customerdetails()
 {
     FILE *fb;
